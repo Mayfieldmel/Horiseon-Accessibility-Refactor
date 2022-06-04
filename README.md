@@ -1,6 +1,6 @@
 # Horiseon Accessibility Refactor
 
-This repo houses the assets used to build the Horiseon website, available at https://mayfieldmel.github.io/Horiseon-Accessibility-Refactor/ . 
+This repo houses the assets used to build the Horiseon website, available at [https://mayfieldmel.github.io/Horiseon-Accessibility-Refactor/] (https://mayfieldmel.github.io/Horiseon-Accessibility-Refactor/). 
 
 ## The Website
 
