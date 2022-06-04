@@ -6,7 +6,7 @@ This repo houses the assets used to build the Horiseon website, available at htt
 
 ## The Website
 
-The Horiseon website offers a brief overview of what the company offers: Search Engine Optimization, Online Reputation Management, and Social Media Marketing. The page also provides of a brief desciption of the tools they use to achieve these objectives: Lead Generation, Brand Awareness, and Cost Management. The website meets accessibility standards, including image elements with descriptive alt attributes and semantic elements and headings following a logical sequential structure. 
+The Horiseon website offers a brief overview of what the company offers: Search Engine Optimization, Online Reputation Management, and Social Media Marketing. The page also provides of a brief desciption of the tools they use to achieve these objectives: Lead Generation, Brand Awareness, and Cost Management. The site has been refactored for accessibility, concision, and search engine optimization. The website meets accessibility standards, including image elements with descriptive alt attributes and semantic elements and headings that follow a logical sequential structure.
 
 ## Tools
 
