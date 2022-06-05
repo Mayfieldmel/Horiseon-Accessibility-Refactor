@@ -14,10 +14,14 @@ The website is built and developed using Visual Studio Code (VS Code). HTML was 
 
 ## Website content
 
-The content for the Horiseon website is in the index.html file on the repository's main branch.
+The content for the Horiseon website is in the "index.html" file on the repository's main branch.
 
 ## CSS
 
-The CSS stylesheet for the site is stored in the CSS folding within the assets directory on the repository's main branch. 
+The CSS stylesheet for the site is stored in the "CSS" folder within the "assets" directory on the repository's main branch. 
+
+## Images
+
+The images used on the site are stored in the "images" folder within the "assets" directory on the repository's main branch.
 
 
