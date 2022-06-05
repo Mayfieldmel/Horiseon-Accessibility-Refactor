@@ -10,14 +10,14 @@ The Horiseon website offers a brief overview of what the company offers: Search 
 
 ## Tools
 
-The website is built and developed using Visual Studio Code (VS Code). HTML was used to create the website's content; CSS styled and formated the page. Github hosts the repository and published the website.
+The website is built and developed using Visual Studio Code (VS Code). HTML was used to create the website's content; CSS styled and formated the page. Github hosts the repository and published the website. Whenever changes are pushed to the main branch of the Horiseon-Accessibility-Refactor repository on github, the site is re-built and re-deployed within minutes.
 
 ## Website content
 
-The content for the Horiseon website is in the index.html file.
+The content for the Horiseon website is in the index.html file on the repository's main branch.
 
 ## CSS
 
-The CSS for the site is pulled from the CSS folding within the assets directory. 
+The CSS stylesheet for the site is stored in the CSS folding within the assets directory on the repository's main branch. 
 
 
