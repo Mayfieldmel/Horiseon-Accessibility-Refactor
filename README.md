@@ -2,7 +2,7 @@
 
 This repo houses the assets used to build the Horiseon website, available at https://mayfieldmel.github.io/Horiseon-Accessibility-Refactor/ . 
 
-![Horiseon-website](./assets/images/01-mock-up.png)
+![Horiseon-website](./assets/images/01-screen-shot.png)
 
 ## The Website
 
